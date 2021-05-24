@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="jxbrowser-win64-7.15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/jxbrowser-win64-7.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
